@@ -1,0 +1,71 @@
+Script started on 2023-04-04 14:52:57-04:00 [TERM="xterm-256color" TTY="/dev/pts/2" COLUMNS="79" LINES="29"]
+[?2004h]0;bhargavi@Ubuntu: ~/go/src/token_manage[01;32mbhargavi@Ubuntu[00m:[01;34m~/go/src/token_manage[00m$ exitgo run server.go -port 50050
+[?2004l2023/04/04 14:55:58 Starting server on port 50050
+
+ RPC ended for: 
+ Token Id:  123
+Token Name:  
+Token Domain Low:  0
+Token Domain Mid:  0
+Token Domain High:  0
+Token State Partial:  0
+Token State Final:  0
+
+All Token id's:
+123
+
+ RPC ended for: 
+ Token Id:  123
+Token Name:  token1
+Token Domain Low:  10
+Token Domain Mid:  50
+Token Domain High:  500
+Token State Partial:  41
+Token State Final:  0
+
+All Token id's:
+123
+final min:  16734130528663031
+
+ RPC ended for: 
+ Token Id:  123
+Token Name:  token1
+Token Domain Low:  10
+Token Domain Mid:  50
+Token Domain High:  500
+Token State Partial:  41
+Token State Final:  377
+
+All Token id's:
+123
+
+ RPC ended for: 
+ Token Id:  132
+Token Name:  
+Token Domain Low:  0
+Token Domain Mid:  0
+Token Domain High:  0
+Token State Partial:  0
+Token State Final:  0
+
+All Token id's:
+132
+123
+
+ RPC ended for: 
+ Token Id:  123
+Token Name:  token1
+Token Domain Low:  10
+Token Domain Mid:  50
+Token Domain High:  500
+Token State Partial:  41
+Token State Final:  377
+
+All Token id's:
+123
+132
+^Csignal: interrupt
+[?2004h]0;bhargavi@Ubuntu: ~/go/src/token_manage[01;32mbhargavi@Ubuntu[00m:[01;34m~/go/src/token_manage[00m$ exit
+[?2004lexit
+
+Script done on 2023-04-04 14:58:00-04:00 [COMMAND_EXIT_CODE="1"]
